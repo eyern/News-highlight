@@ -1,6 +1,6 @@
 import unittest
 from models import article
-Article=article.Article
+Article=article.Artic
 
 class ArticleTest(unittest.TestCase):
      '''
